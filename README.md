@@ -3,6 +3,6 @@
 
 * Grecia Gabriela Cortes Valenciano
 * No. Control: 182121
-* Materia: Lenguajes de Interfaz
+* Materia: Sistemas Programables
 * Lenguaje: CircuitPython
 * Simulador: [Wokwi](https://wokwi.com/)
